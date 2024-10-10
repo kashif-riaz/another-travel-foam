@@ -4,7 +4,9 @@
   "description": "just for practise",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "keywords": [],
   "author": "",
